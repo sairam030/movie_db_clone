@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sairam030/movie_db_clone/static/css/main.03703c27.css",
+    "main.js": "/sairam030/movie_db_clone/static/js/main.8cbb436e.js",
+    "static/js/787.163e8104.chunk.js": "/sairam030/movie_db_clone/static/js/787.163e8104.chunk.js",
+    "index.html": "/sairam030/movie_db_clone/index.html",
+    "main.03703c27.css.map": "/sairam030/movie_db_clone/static/css/main.03703c27.css.map",
+    "main.8cbb436e.js.map": "/sairam030/movie_db_clone/static/js/main.8cbb436e.js.map",
+    "787.163e8104.chunk.js.map": "/sairam030/movie_db_clone/static/js/787.163e8104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03703c27.css",
+    "static/js/main.8cbb436e.js"
+  ]
+}
